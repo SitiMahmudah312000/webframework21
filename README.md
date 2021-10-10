@@ -14,10 +14,13 @@ The following tools are required in order to start the installation.
 ## Installation
 
 Web ini menggunakan:
-1.  PHP 7.4
+1. PHP 7.4
 2. Laravel 8
-3. Clone repository GitHub : https://github.com/SitiMahmudah312000/webframework21
-4. Buat kunci aplikasi dengan php artisan key : generate
-5. Web secara lokal dijalankan dengan php artisan serve`
+3. [Composer](https://getcomposer.org/download/)
+;
+Cara instalasi
+1. Clone repository GitHub : https://github.com/SitiMahmudah312000/webframework21
+2. Buat kunci aplikasi dengan 'php artisan key : generate'
+3. Jalankan web secara lokal dengan 'php artisan serve'
 
 Anda bisa mengunungi website Anda di URL: [http://127.0.0.1:8000](http://127.0.0.1:8000).

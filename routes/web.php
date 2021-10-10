@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+<<<<<<< HEAD
 
 Route::get('/', function () {
     return view('index');
@@ -29,3 +30,8 @@ Route::get('home', function () {
 Route::get('kesenian', function () {
     return view('kesenian');
 });
+=======
+Route::get('/', function () {
+    return view('latihan1');
+});
+>>>>>>> c00faeaf15f7d463a9cb4c7982616235571b77dc

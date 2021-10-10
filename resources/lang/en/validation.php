@@ -109,7 +109,10 @@ return [
     'prohibited' => 'The :attribute field is prohibited.',
     'prohibited_if' => 'The :attribute field is prohibited when :other is :value.',
     'prohibited_unless' => 'The :attribute field is prohibited unless :other is in :values.',
+<<<<<<< HEAD
     'prohibits' => 'The :attribute field prohibits :other from being present.',
+=======
+>>>>>>> c00faeaf15f7d463a9cb4c7982616235571b77dc
     'same' => 'The :attribute and :other must match.',
     'size' => [
         'numeric' => 'The :attribute must be :size.',
